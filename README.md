@@ -11,8 +11,14 @@ It's as easy as downloading them! The fastest way might be to clone the entire r
 
 ### Contributing to the project
 Here's the process we'll use to incorporate community improvements to the project:
-* 
-Fork your own copy of this repository, and make a new branch for your changes. Please only change files in your branch. When you are ready to contribute to the main repository, create a pull request. 
+* Fork the repository to your account
+* Clone the forked repository to your local computer
+* Make your own branch (name it something unique, maybe "yourusername-working")
+* Switch to your new branch
+* Make changes to files on your local branch. It's a good idea to write down all the changes you make to post them later in yuor pull request.
+* Add and commit your changes locally (committing involves writing a message of what you changed; it's a good idea to add and commit often, for small changes).
+* Push your changes 
+* Back on github, create a pull request from your forked repo branch to the main repository's main branch. This is the place where to paste your changes to help us review your changes.
 
 This is a video walkthrough to contributing to an open-source project: https://www.youtube.com/watch?v=c6b6B9oN4Vg 
 
