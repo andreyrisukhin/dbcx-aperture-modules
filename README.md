@@ -11,16 +11,15 @@ It's as easy as downloading them! The fastest way might be to clone the entire r
 
 ### Contributing to the project
 Here's the process we'll use to incorporate community improvements to the project:
-* Fork the repository to your account
-* Clone the forked repository to your local computer
+* Fork the repository to your GitHub account
 * Make your own branch (name it something unique, maybe "yourusername-working")
 * Switch to your new branch
-* Make changes to files on your local branch. It's a good idea to write down all the changes you make to post them later in yuor pull request.
+* Make changes to files on your local branch. It's a good idea to write down all the changes you make to post them later in yuor pull request. This can be done through the website, no need to clone to your local machine for stud.io files.
 * Add and commit your changes locally (committing involves writing a message of what you changed; it's a good idea to add and commit often, for small changes).
-* Push your changes 
-* Back on github, create a pull request from your forked repo branch to the main repository's main branch. This is the place where to paste your changes to help us review your changes.
+* Still on github, create a pull request from your forked repo unique branch to your forked repo's main branch. It's a good idea to add details here about broad changes, because the commit messages have fine-grained changes.
+* Finally, create a pull request from your forked repo's main branch to the original repo's main branch. This is the place where to paste your changes to help us review your changes.
 
-This is a video walkthrough to contributing to an open-source project: https://www.youtube.com/watch?v=c6b6B9oN4Vg 
+For Lego fans uploading stud.io files, working with the website for Github should be enough (just tested this). If you'd like the more involved process, this is a video walkthrough to contributing to an open-source project: https://www.youtube.com/watch?v=c6b6B9oN4Vg 
 
 ## Code of Conduct
 Be cool, and don't be uncool. Let's make this a good experience for everyone involved, we're here to design and discuss the ultimate Lego version of modular aperture from Portal and Portal 2. 
@@ -30,5 +29,5 @@ Files representing the most atomic elements are most useful. They allow easier c
 
 A "current" version of each element will live in a current folder, while previous replaced versions will be stored in an archive folder containing versions of previous elements. A subfolder will contain current example tests. When a piece of an example test is replaced, that test will be relegated to the archive folder. This preserves the invariant that "everything in the current folder is current".
 
-A tutorial folder will exist to share information about topics like rendering.
+A tutorial folder will exist to share information about topics such as rendering.
 
