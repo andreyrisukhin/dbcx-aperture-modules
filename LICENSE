@@ -1,13 +1,39 @@
-MIT License
+MIT License, modified for Lego Ideas Compliance
 
 Copyright (c) 2022 Andrey Risukhin
 
+========================
+
+Define "the Model": The collection of files and builds representing the
+the Portal Modular Testing Chamber system by Andrey Risukhin, and 
+derivatives of those files and builds. 
+
+The following restrictions ("the Restrictions") are imposed to maintain
+compliance with Lego Ideas guidelines (https://ideas.lego.com/guidelines)
+while allowing for the Lego fan community to collaboratively build on the
+Model, improving it for anyone to create. 
+
+Define "Restriction 1": The original creator, Andrey Risukhin, maintains 
+the exclusive right to submit a subset of the Model to LEGO Ideas. 
+
+Define "Restriction 2": Persons obtaining a copy of this software and 
+associated documentation files ("the Software") are prohibited from selling 
+building instructions, custom kits, or anything related to the Portal Modular
+Testing Chamber system, and from otherwise causing this project to be 
+invalid as a future Lego Ideas submission. 
+
+========================
+
+The MIT License follows, and applies except where in conflict with the imposed
+Restrictions; in such cases, the imposed Restrictions take precedence.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+in the Software without restriction EXCEPT the imposed Restrictions above, 
+including without limitation the rights to use, copy, modify, merge, publish, 
+distribute, sublicense, and/or sell copies of the Software, and to permit 
+persons to whom the Software is furnished to do so, subject to the following 
+conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
