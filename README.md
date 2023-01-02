@@ -19,15 +19,21 @@ Here's the process we'll use to incorporate community improvements to the projec
 * Still on github, create a pull request from your forked repo unique branch to your forked repo's main branch. It's a good idea to add details here about broad changes, because the commit messages have fine-grained changes.
 * Finally, create a pull request from your forked repo's main branch to the original repo's main branch. This is the place where to paste your changes to help us review your changes.
 
-For Lego fans uploading stud.io files, working with the website for Github should be enough (just tested this). If you'd like the more involved process, this is a video walkthrough to contributing to an open-source project: https://www.youtube.com/watch?v=c6b6B9oN4Vg 
+For Lego fans uploading stud.io files, working with the website for Github should be enough (just tested this). Our video contained a quick walkthrough of the process: https://youtu.be/nR_HPBk4dgA 
+
+If you'd like the more involved process, this is a video walkthrough to contributing to an open-source project: https://www.youtube.com/watch?v=c6b6B9oN4Vg 
 
 ## Code of Conduct
 Be cool, and don't be uncool. Let's make this a good experience for everyone involved, we're here to design and discuss the ultimate Lego version of modular aperture from Portal and Portal 2. 
 
 ## Organization
-Files representing the most atomic elements are most useful. They allow easier comparisons between versions of an element. If proposing a new design, or modifying an element design, please submit a file containing only the element designed. Feel free to also submit example test chambers where the element is incorporated.
+Top level folder "current" contains the most updated version of each part. Top level folder "archive" contains previous versions of a part. When a current part is updated, the old file is placed into the archive. 
 
-A "current" version of each element will live in a current folder, while previous replaced versions will be stored in an archive folder containing versions of previous elements. A subfolder will contain current example tests. When a piece of an example test is replaced, that test will be relegated to the archive folder. This preserves the invariant that "everything in the current folder is current".
+"Archive" contains a folder for each atomic element. If this gets too large, will refactor. "Archive" also contains a folder for test chambers. Test chambers will live here, to avoid having to update their designs if they were inside "current".
+
+Naming conventions for files TBD.
+
+If proposing a new design, or modifying an element design, please submit a file containing only the element designed. Feel free to also submit example test chambers where the element is incorporated.
 
 A tutorial folder will exist to share information about topics such as rendering.
 
